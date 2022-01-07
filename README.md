@@ -32,9 +32,9 @@ Spring+SpringMVC+Mybatis
 管理员：查询全校的学生状态和打卡记录、查询所有学生和老师的信息、添加用户、修改个人资料。
 
 ## 主要用例和流程图
-![image](public/pic/用例图.png)
+![image](pic/用例图.png)
 
-![image](public/pic/流程图.png)
+![image](pic/流程图.png)
 
 ## 数据库设计
-![image](public/pic/ER图.png)
+![image](pic/ER图.png)
